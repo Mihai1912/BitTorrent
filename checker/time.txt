@@ -1,0 +1,9 @@
+ALL DONE client 1
+ALL DONE client 2
+ALL DONE client 3
+ALL DONE client 4
+ALL DONE client 5
+ALL DONE client 6
+real 0.54
+user 0.57
+sys 0.48
